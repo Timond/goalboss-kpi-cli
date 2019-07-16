@@ -7,3 +7,5 @@ Simply run the script with no parameters.
 chmod +x km.py
 ./km.py
 ```
+
+Written by Tim Duncan
